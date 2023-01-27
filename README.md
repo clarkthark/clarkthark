@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @clarkthark
-- 👀 I’m interested in bioinformatics/statistics
-- 🌱 I’m currently learning Python
-- 💞️ I’m always willing to collaborate on any biochemistry/genetics projects.
-- 📫 Just DM me or e-mail me if you'd like to get in touch!
+I'm learning new coding languages and writing bioinformatics programs. Thats about it for this site.
 
 <!---
 clarkthark/clarkthark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
